@@ -2,7 +2,7 @@
 // Basic types of java script = string, numeric, Boolean, undifiend, null 
 // ::::::variable declare system 5 thinks::::
 // 1. var, const , let, = type of veriable 
-// 2. name of veriable 
+// 2. name of veriable (don't use java script resarb keywords for variable name)
         // 1. camel case = totalPrice
         // 2. snake case = total_price
         // 3.postal case = TotalPrice
