@@ -2,6 +2,11 @@
 var price1 = "100";
 var price2 = "500" ;
 var gpa = '4.25';
+// string always add variable without space 
+var firstName = "md"
+var lastName = "shimul Islam"
+var fullName = firstName + " "+lastName;
+console.log(fullName);
 
 gpa = parseFloat(gpa);
 
